@@ -2,11 +2,9 @@
 title: "PhpStormで入れておきたい拡張機能"
 emoji: "🙏"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["PHPStorm"]
-published: false
+topics: ["PHPStorm", "プラグイン", "ツール"]
+published: true
 ---
-
-いいのがあれば教えてください
 
 ## ネタ系
 
@@ -68,6 +66,7 @@ CSVファイルを見やすくします。これだけで十分です。
 https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion
 
 PHPの連想配列に補完が効くようになります。これだけ聞くと地味そうに感じるのですが、めちゃくちゃ便利です。
+
 自分の中でも割とベストに入るくらい便利なプラグインだと感じています。
 
 ###  GitToolBox
@@ -120,6 +119,45 @@ Lintしてくれます。 Php Inspections (EA Extended)とは別ベクトルで�
 https://plugins.jetbrains.com/plugin/2162-string-manipulation
 
 キャメルケースだのスネークケースだのなんだのを一発で変換してくれるプラグインです。
+
+### OpenAPI(Swagger) Editor
+
+https://plugins.jetbrains.com/plugin/14837-openapi-swagger-editor
+
+文字通りOpenAPI Editorです。Stoplightも使うときもありますが、ササッと修正だけしたい場合には便利です！
+
+### Makefile Language
+
+https://plugins.jetbrains.com/plugin/9333-makefile-language
+
+MakefileをSyntax Highlightしたり、補完が効くやつになります。
+
+割と面倒なのをMakefileで書いてしまうので重宝しています。
+
+### Conventional Commit & # Commitlint Conventional Commit
+
+https://www.conventionalcommits.org/en/v1.0.0/
+
+コミットを読みやすくするためのルールとしてconventional commitsがあると思います。
+
+https://plugins.jetbrains.com/plugin/13389-conventional-commit
+
+これはconventional commitsに則ったようにコミットメッセージを組み立てられるように補助してくれるプラグインになります。
+
+ダイアログが出るので、それに入力していくだけで組み立てられるため、構造やルールを覚える必要がなくなります。
+
+また、Lintとしてルールを徹底させたい場合はLintとして以下のプラグインが役煮立ちます。
+
+https://github.com/conventional-changelog/commitlint
+
+https://plugins.jetbrains.com/plugin/14046-commitlint-conventional-commit
+
+
+### Active Tab Highlighter
+
+https://plugins.jetbrains.com/plugin/9562-active-tab-highlighter
+
+Icebergテーマを使用していると高頻度で「あれ、今どれ開いてるんだっけ」というのがわからなくなってしまうので入れてます。
 
 ###  Tabnine AI Code Completion- JS Java Python TS Rust Go PHP & More
 
