@@ -1,5 +1,5 @@
 ---
-title: "PhpStormで入れておきたい拡張機能"
+title: "PhpStormで入れておきたいプラグイン"
 emoji: "🙏"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["PHPStorm", "プラグイン", "ツール"]
