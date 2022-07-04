@@ -1,5 +1,5 @@
 ---
-title: "Slack絵文字を追加したいときに見るリンク集"
+title: "【随時更新】Slack絵文字を追加したいときに見るリンク集"
 emoji: "👁️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Slack", "emoji", 'tool']
@@ -74,3 +74,5 @@ https://slack.com/intl/ja-jp/help/articles/360000482666-Slack-%E7%94%A8%E3%83%AA
 ## まとめ
 
 レッツ、ハッピーSlack絵文字デイ！🎉
+
+他に良いリンクがあれば教えてください🙌
