@@ -20,7 +20,7 @@ https://zk-phi.github.io/MEGAMOJI/
 
 https://qiita.com/zk_phi/items/8a24b8ad9d1eabd364aa
 
-### 作るの面倒なのですでにあるもの使いたい
+### 作るの面倒なのですでにあるもの使いたい！
 
 #### あるといいもの
 
@@ -33,7 +33,7 @@ https://chrome.google.com/webstore/detail/slack-custom-emoji-manage/cgipifjpcbhd
 https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?hl=ja&
 
 
-#### テキスト系
+#### テキスト系絵文字追加したい！
 
 CLIから一括登録できるので便利なのですが・・・28000個ある拡張版のインストールは気が引ける・・・
 
@@ -55,9 +55,13 @@ https://devicon.dev/
 
 https://cultofthepartyparrot.com/
 
-#### やっぱりいらすとや
+#### やっぱりいらすとやでしょ
 
 https://www.irasutoya.com/
+
+#### サクッと背景透過させたい
+
+https://www.remove.bg/ja
 
 ### 番外編
 
