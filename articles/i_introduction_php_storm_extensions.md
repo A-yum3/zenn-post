@@ -273,3 +273,23 @@ Laravelでのクエリ部分を補完してくれます。これがめちゃく�
 https://plugins.jetbrains.com/plugin/7532-laravel
 
 よくLaravelプラグイン系でお勧めされますが、今はもう古くアップデートもされていないので微妙です。ide-helperがあれば足りてますし、他のプラグイン等でカバーできてる部分も多いので必要ないと感じています。
+
+---
+memo
+
+### Discord Integration
+https://plugins.jetbrains.com/plugin/10233-discord-integration
+
+
+### AWS CloudFormation
+https://plugins.jetbrains.com/plugin/7371-aws-cloudformation
+
+### ExcelReader
+https://plugins.jetbrains.com/plugin/14722-excelreader
+
+### PHP Toolbox
+https://plugins.jetbrains.com/plugin/8133-php-toolbox
+
+### Test Data
+
+https://plugins.jetbrains.com/plugin/16873-test-data
