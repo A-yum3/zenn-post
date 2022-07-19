@@ -6,6 +6,12 @@ topics: ["Obsidian", "ノート", "zettelkasten"]
 published: true
 ---
 
+:::message alert
+この記事より包括的かつ分かりやすい情報管理術をまとめている書籍が出版されているため非推奨とさせていただいています。  
+↓書籍  
+[Obsidianでつなげる情報管理術](https://www.amazon.co.jp/dp/B0B4K499F4)
+:::
+
 ## はじめに
 
 個人的に感じたノート術のベストプラクティスが見つかったような心持ちになったので技術共有します。
