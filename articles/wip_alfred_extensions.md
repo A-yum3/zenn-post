@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "ランチャーアプリ「Alfred5」とおすすめの拡張機能"
 emoji: "🎃"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: []
 published: false
 ---
