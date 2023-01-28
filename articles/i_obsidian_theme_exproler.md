@@ -109,7 +109,7 @@ https://github.com/insanum/obsidian_nord
 
 https://github.com/kognise/obsidian-atom
 
-![](Atom.png)
+![](/images/i_obsidian_theme_exproler/Atom.png)
 
 #### いいところ
 
@@ -121,7 +121,7 @@ https://github.com/kognise/obsidian-atom
 
 https://github.com/ceciliamay/obsidianmd-theme-primary
 
-![](Primary.png)
+![](/images/i_obsidian_theme_exproler/Primary.png)
 
 #### いいところ
 
@@ -132,7 +132,7 @@ https://github.com/ceciliamay/obsidianmd-theme-primary
 
 https://github.com/jdanielmourao/obsidian-sanctum
 
-![](Sanctum.png)
+![](/images/i_obsidian_theme_exproler/Sanctum.png)
 
 #### いいところ
 
@@ -161,7 +161,7 @@ https://github.com/chrisgrieser/shimmering-focus
 
 https://github.com/santiyounger/Wasp-Obsidian-Theme
 
-![](Wasp.png)
+![](/images/i_obsidian_theme_exproler/Wasp.png)
 
 #### いいところ
 
@@ -171,7 +171,7 @@ https://github.com/santiyounger/Wasp-Obsidian-Theme
 
 https://github.com/damiankorcz/Prism-Theme
 
-![](Prism.png)
+![](/images/i_obsidian_theme_exproler/Prism.png)
 
 #### いいところ
 
