@@ -38,7 +38,7 @@ publication_name: "hajimari"
 
 ## デフォルト
 
-![](images/obsidian_theme/default.png)
+![](/images/obsidian_theme/default.png)
 
 ### いいところ
 
@@ -58,7 +58,7 @@ publication_name: "hajimari"
 
 https://github.com/kepano/obsidian-minimal
 
-![](images/obsidian_theme/Minimal.png)
+![](/images/obsidian_theme/Minimal.png)
 
 #### いいところ
 
@@ -71,7 +71,7 @@ https://github.com/kepano/obsidian-minimal
 
 https://github.com/colineckert/obsidian-things
 
-![](images/obsidian_theme/Things.png)
+![](/images/obsidian_theme/Things.png)
 #### いいところ
 
 - ヘッダーの色がカラフルで見やすい
@@ -84,7 +84,7 @@ https://github.com/colineckert/obsidian-things
 
 https://github.com/whyt-byte/Blue-Topaz_Obsidian-css
 
-![](images/obsidian_theme/BlueTopaz.png)
+![](/images/obsidian_theme/BlueTopaz.png)
 
 #### いいところ
 
@@ -98,7 +98,7 @@ https://github.com/whyt-byte/Blue-Topaz_Obsidian-css
 
 https://github.com/insanum/obsidian_nord
 
-![](images/obsidian_theme/ObsidianNord.png)
+![](/images/obsidian_theme/ObsidianNord.png)
 
 #### いいところ
 
@@ -109,7 +109,7 @@ https://github.com/insanum/obsidian_nord
 
 https://github.com/kognise/obsidian-atom
 
-![](images/obsidian_theme/Atom.png)
+![](/images/obsidian_theme/Atom.png)
 
 #### いいところ
 
@@ -121,7 +121,7 @@ https://github.com/kognise/obsidian-atom
 
 https://github.com/ceciliamay/obsidianmd-theme-primary
 
-![](images/obsidian_theme/Primary.png)
+![](/images/obsidian_theme/Primary.png)
 
 #### いいところ
 
@@ -132,7 +132,7 @@ https://github.com/ceciliamay/obsidianmd-theme-primary
 
 https://github.com/jdanielmourao/obsidian-sanctum
 
-![](images/obsidian_theme/Sanctum.png)
+![](/images/obsidian_theme/Sanctum.png)
 
 #### いいところ
 
@@ -144,7 +144,7 @@ https://github.com/jdanielmourao/obsidian-sanctum
 
 https://github.com/chrisgrieser/shimmering-focus
 
-![](images/obsidian_theme/ShimmeringFocus.png)
+![](/images/obsidian_theme/ShimmeringFocus.png)
 
 #### いいところ
 
@@ -161,7 +161,7 @@ https://github.com/chrisgrieser/shimmering-focus
 
 https://github.com/santiyounger/Wasp-Obsidian-Theme
 
-![](images/obsidian_theme/Wasp.png)
+![](/images/obsidian_theme/Wasp.png)
 
 #### いいところ
 
@@ -171,7 +171,7 @@ https://github.com/santiyounger/Wasp-Obsidian-Theme
 
 https://github.com/damiankorcz/Prism-Theme
 
-![](images/obsidian_theme/Prism.png)
+![](/images/obsidian_theme/Prism.png)
 
 #### いいところ
 
@@ -186,7 +186,7 @@ https://github.com/damiankorcz/Prism-Theme
 
 https://github.com/SlRvb/Obsidian--ITS-Theme
 
-![](images/obsidian_theme/ITSTheme.png)
+![](/images/obsidian_theme/ITSTheme.png)
 
 #### いいところ
 
@@ -200,7 +200,7 @@ https://github.com/SlRvb/Obsidian--ITS-Theme
 
 https://github.com/hungsu/typomagical-obsidian
 
-![](images/obsidian_theme/Typomagical.png)
+![](/images/obsidian_theme/Typomagical.png)
 
 #### いいところ
 
@@ -211,7 +211,7 @@ https://github.com/hungsu/typomagical-obsidian
 
 https://github.com/hydescarf/Obsidian-Theme-Mado-11
 
-![](images/obsidian_theme/Mado11.png)
+![](/images/obsidian_theme/Mado11.png)
 
 #### いいところ
 
@@ -224,7 +224,7 @@ https://github.com/hydescarf/Obsidian-Theme-Mado-11
 
 https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow
 
-![](images/obsidian_theme/MadoMiniflow.png)
+![](/images/obsidian_theme/MadoMiniflow.png)
 
 #### いいところ
 
@@ -238,7 +238,7 @@ https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow
 
 https://github.com/learnerfvs/Sparkling-Wisdom-obsidian-theme-
 
-![](images/obsidian_theme/SparklingWisdom.png)
+![](/images/obsidian_theme/SparklingWisdom.png)
 
 #### いいところ
 
@@ -251,7 +251,7 @@ https://github.com/learnerfvs/Sparkling-Wisdom-obsidian-theme-
 
 https://github.com/Seraaron/agora-obsidian-theme
 
-![](images/obsidian_theme/Agora.png)
+![](/images/obsidian_theme/Agora.png)
 
 #### いいところ
 
@@ -262,7 +262,7 @@ https://github.com/Seraaron/agora-obsidian-theme
 
 https://github.com/7368697661/Ultra-Lobster
 
-![](images/obsidian_theme/UltraLobster.png)
+![](/images/obsidian_theme/UltraLobster.png)
 
 #### いいところ
 
@@ -275,7 +275,7 @@ https://github.com/7368697661/Ultra-Lobster
 
 https://github.com/7368697661/Origami
 
-![](images/obsidian_theme/Origami.png)
+![](/images/obsidian_theme/Origami.png)
 
 #### いいところ
 
@@ -287,7 +287,7 @@ https://github.com/7368697661/Origami
 
 https://github.com/Akifyss/obsidian-border
 
-![](images/obsidian_theme/Border.png)
+![](/images/obsidian_theme/Border.png)
 
 #### いいところ
 
@@ -302,7 +302,7 @@ https://github.com/Akifyss/obsidian-border
 
 https://github.com/Bluemoondragon07/Wikipedia-Theme
 
-![](images/obsidian_theme/Wikipedia.png)
+![](/images/obsidian_theme/Wikipedia.png)
 
 #### いいところ
 
@@ -313,7 +313,7 @@ https://github.com/Bluemoondragon07/Wikipedia-Theme
 
 https://github.com/Bluemoondragon07/obsidian-light-and-bright-theme
 
-![](images/obsidian_theme/LightAndBright.png)
+![](/images/obsidian_theme/LightAndBright.png)
 
 #### いいところ
 
@@ -326,7 +326,7 @@ https://github.com/Bluemoondragon07/obsidian-light-and-bright-theme
 
 **完全にレギュレーション違反ですが**、Style Settingsを少しカスタマイズしたMado Miniflowに落ち着きました。
 
-![](images/obsidian_theme/result.png)
+![](/images/obsidian_theme/result.png)
 
 ~~StyleSettings使えば正直ヘッダー要素大きさとか色とかあんまり関係ないかも・・・~~
 
