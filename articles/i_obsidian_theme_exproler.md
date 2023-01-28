@@ -3,7 +3,7 @@ title: "Obsidianのテーマを探した時のメモ"
 emoji: "🔎"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Obsidian"]
-published: false
+published: true
 publication_name: "hajimari"
 ---
 
