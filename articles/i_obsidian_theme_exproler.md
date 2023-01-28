@@ -58,7 +58,7 @@ publication_name: "hajimari"
 
 https://github.com/kepano/obsidian-minimal
 
-![](/images/i_obsidian_theme_exproler/minimal.png)
+![](/images/i_obsidian_theme_exproler/Minimal.png)
 
 #### いいところ
 
@@ -71,7 +71,7 @@ https://github.com/kepano/obsidian-minimal
 
 https://github.com/colineckert/obsidian-things
 
-![](/images/i_obsidian_theme_exproler/things.png)
+![](/images/i_obsidian_theme_exproler/Things.png)
 #### いいところ
 
 - ヘッダーの色がカラフルで見やすい
@@ -109,7 +109,7 @@ https://github.com/insanum/obsidian_nord
 
 https://github.com/kognise/obsidian-atom
 
-![](/images/i_obsidian_theme_exproler/Atom.png)
+![](Atom.png)
 
 #### いいところ
 
@@ -121,7 +121,7 @@ https://github.com/kognise/obsidian-atom
 
 https://github.com/ceciliamay/obsidianmd-theme-primary
 
-![](/images/i_obsidian_theme_exproler/Primary.png)
+![](Primary.png)
 
 #### いいところ
 
@@ -132,7 +132,7 @@ https://github.com/ceciliamay/obsidianmd-theme-primary
 
 https://github.com/jdanielmourao/obsidian-sanctum
 
-![](/images/i_obsidian_theme_exproler/Sanctum.png)
+![](Sanctum.png)
 
 #### いいところ
 
@@ -161,7 +161,7 @@ https://github.com/chrisgrieser/shimmering-focus
 
 https://github.com/santiyounger/Wasp-Obsidian-Theme
 
-![](/images/i_obsidian_theme_exproler/Wasp.png)
+![](Wasp.png)
 
 #### いいところ
 
@@ -171,7 +171,7 @@ https://github.com/santiyounger/Wasp-Obsidian-Theme
 
 https://github.com/damiankorcz/Prism-Theme
 
-![](/images/i_obsidian_theme_exproler/Prism.png)
+![](Prism.png)
 
 #### いいところ
 
