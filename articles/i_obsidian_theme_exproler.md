@@ -38,7 +38,6 @@ publication_name: "hajimari"
 
 ## デフォルト
 
-![[default.png]]
 
 ### いいところ
 
@@ -58,7 +57,6 @@ publication_name: "hajimari"
 
 https://github.com/kepano/obsidian-minimal
 
-![[Minimal.png]]
 
 #### いいところ
 
@@ -71,7 +69,6 @@ https://github.com/kepano/obsidian-minimal
 
 https://github.com/colineckert/obsidian-things
 
-![[Things.png]]
 
 #### いいところ
 
@@ -82,9 +79,8 @@ https://github.com/colineckert/obsidian-things
 - h2要素に下線がある
 
 ### Blue Topaz
-https://github.com/whyt-byte/Blue-Topaz_Obsidian-css
 
-![[BlueTopaz.png.png]]
+https://github.com/whyt-byte/Blue-Topaz_Obsidian-css
 
 #### いいところ
 
@@ -98,8 +94,6 @@ https://github.com/whyt-byte/Blue-Topaz_Obsidian-css
 
 https://github.com/insanum/obsidian_nord
 
-![[Obsidian_Nord.png]]
-
 #### いいところ
 
 - デフォルトのテーマにヘッダー要素が見やすくカラーリングされている
@@ -108,8 +102,6 @@ https://github.com/insanum/obsidian_nord
 ### Atom
 
 https://github.com/kognise/obsidian-atom
-
-![[atom.png]]
 
 #### いいところ
 
@@ -121,8 +113,6 @@ https://github.com/kognise/obsidian-atom
 
 https://github.com/ceciliamay/obsidianmd-theme-primary
 
-![[primary.png]]
-
 #### いいところ
 
 - 全体的に色が見やすい
@@ -131,8 +121,6 @@ https://github.com/ceciliamay/obsidianmd-theme-primary
 ### Sanctum
 
 https://github.com/jdanielmourao/obsidian-sanctum
-
-![[sanctum.png]]
 
 #### いいところ
 
@@ -143,8 +131,6 @@ https://github.com/jdanielmourao/obsidian-sanctum
 ### Shimmering Focus
 
 https://github.com/chrisgrieser/shimmering-focus
-
-![[shimmering_focus.png]]
 
 #### いいところ
 
@@ -161,9 +147,6 @@ https://github.com/chrisgrieser/shimmering-focus
 
 https://github.com/santiyounger/Wasp-Obsidian-Theme
 
-![[wasp.png]]
-
-
 #### いいところ
 
 - フラット感がある
@@ -171,8 +154,6 @@ https://github.com/santiyounger/Wasp-Obsidian-Theme
 ### Prism
 
 https://github.com/damiankorcz/Prism-Theme
-
-![[prism.png]]
 
 #### いいところ
 
@@ -187,8 +168,6 @@ https://github.com/damiankorcz/Prism-Theme
 
 https://github.com/SlRvb/Obsidian--ITS-Theme
 
-![[ITS_Theme.png]]
-
 #### いいところ
 
 - 各ヘッダー要素に下線があり、ヘッダー要素によって長さが違う
@@ -201,8 +180,6 @@ https://github.com/SlRvb/Obsidian--ITS-Theme
 
 https://github.com/hungsu/typomagical-obsidian
 
-![[Typomagical.png]]
-
 #### いいところ
 
 - h1要素が中央揃え
@@ -211,8 +188,6 @@ https://github.com/hungsu/typomagical-obsidian
 ### Mado 11
 
 https://github.com/hydescarf/Obsidian-Theme-Mado-11
-
-![[Mado11.png]]
 
 #### いいところ
 
@@ -224,8 +199,6 @@ https://github.com/hydescarf/Obsidian-Theme-Mado-11
 ### Mado Miniflow
 
 https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow
-
-![[Mado_Miniflow.png]]
 
 #### いいところ
 
@@ -239,8 +212,6 @@ https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow
 
 https://github.com/learnerfvs/Sparkling-Wisdom-obsidian-theme-
 
-![[Sparking_Wisdom.png]]
-
 #### いいところ
 
 - h1,h2要素がすごく特徴的
@@ -252,8 +223,6 @@ https://github.com/learnerfvs/Sparkling-Wisdom-obsidian-theme-
 
 https://github.com/Seraaron/agora-obsidian-theme
 
-![[Agora.png]]
-
 #### いいところ
 
 - ヘッダー要素に各色が付いている
@@ -262,8 +231,6 @@ https://github.com/Seraaron/agora-obsidian-theme
 ### Ultra Lobster
 
 https://github.com/7368697661/Ultra-Lobster
-
-![[Ultra_Lobster.png]]
 
 #### いいところ
 
@@ -276,8 +243,6 @@ https://github.com/7368697661/Ultra-Lobster
 
 https://github.com/7368697661/Origami
 
-![[Origami.png]]
-
 #### いいところ
 
 - かわいらしい
@@ -287,8 +252,6 @@ https://github.com/7368697661/Origami
 ### Border
 
 https://github.com/Akifyss/obsidian-border
-
-![[Border.png]]
 
 #### いいところ
 
@@ -303,8 +266,6 @@ https://github.com/Akifyss/obsidian-border
 
 https://github.com/Bluemoondragon07/Wikipedia-Theme
 
-![[Wikipedia.png]]
-
 #### いいところ
 
 - 一瞬にしてObsidianがWikipediaになる
@@ -313,8 +274,6 @@ https://github.com/Bluemoondragon07/Wikipedia-Theme
 ### Light & Bright
 
 https://github.com/Bluemoondragon07/obsidian-light-and-bright-theme
-
-![[Light_and_Bright.png]]
 
 #### いいところ
 
@@ -328,8 +287,6 @@ https://github.com/Bluemoondragon07/obsidian-light-and-bright-theme
 **完全にレギュレーション違反ですが**、Style Settingsを少しカスタマイズしたMado Miniflowに落ち着きました。
 
 ~~StyleSettings使えば正直ヘッダー要素大きさとか色とかあんまり関係ないかも・・・~~
-
-![[result.png]]
 
 Zennを書く時のエディターは Light & Brightを使おうと思います。
 
