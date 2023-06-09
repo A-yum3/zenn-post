@@ -168,6 +168,12 @@ https://plugins.jetbrains.com/plugin/8183-gitlink
 
 Slackなどで意外とコードURLを共有することはありませんか？その際にこのGitLinkを使えばスムーズにURLを見つけることができます。
 
+### Find Pull Request
+
+https://plugins.jetbrains.com/plugin/8262-find-pull-request
+
+コードの行が変更されたPRを表示できる。なぜこの実装になったのか？をすぐに追えるため、背景調査に便利。
+
 ## 操作系
 
 ###  IdeaVim
