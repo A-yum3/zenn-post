@@ -8,34 +8,14 @@ published: true
 
 ## ネタ系
 
-###  Nyan Progress Bar 
+###  Nyan Progress Bar
 
 https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar
-
 
 PhpStormに使われるプログレスバーをNyanCatに置き換えます。かわいい。
 プログレスバーはインデックス作成の時にも出てくるので頻繁に目にします。癒やしを求めてください。
 
-他にも Progre Barを置き換えるプラグインはたくさんあるので、好きなものを使ってください。
-
-https://plugins.jetbrains.com/plugin/14708-mario-progress-bar
-
-https://plugins.jetbrains.com/plugin/11602-duck-progress-bar
-
-https://plugins.jetbrains.com/plugin/14609-pokemon-trainer-progress-bar
-
-https://plugins.jetbrains.com/plugin/12453-hadouken-progress-bar
-
-https://plugins.jetbrains.com/plugin/14604-eevee-progress-bar
-
-https://plugins.jetbrains.com/plugin/15291-elephpant-progress-bar
-
-
-### Nyan Tray
-
-https://plugins.jetbrains.com/plugin/11286-nyan-tray
-
-MacのメニューバーにPhpStormのパフォーマンス状況をNyanCatで教えてくれます。~~正直いらないかも~~
+他にもProgressBarを置き換えるプラグインはたくさんあるので、好きなものを使ってください。
 
 ## 便利系
 
@@ -88,6 +68,7 @@ https://plugins.jetbrains.com/plugin/13964-japanese-language-pack------
 
 https://plugins.jetbrains.com/plugin/7320-php-annotations
 
+DocBlocksをサポートしてくれます。
 
 ###  Php Inspections (EA Extended)
 
@@ -99,7 +80,9 @@ PHPStanとはまた草分けが違い、if文で「この条件おかしくな�
 
 インスペクションでサクッと適切な形に自動整形してくれるので便利で手放せません。
 
-１行関数をArrow Functionに変えるのも簡単に整形してくれるので楽です。
+また、アーキテクチャの問題や弱い方やパフォーマンス、セキュリティ問題など幅広い中でアラートを早めに出してくれます。
+
+1行関数をArrow Functionに変えるのも簡単に整形してくれるので楽です。
 ぜひ入れていただきたいプラグインです。
 
 ###  Rainbow Brackets
@@ -134,38 +117,18 @@ MakefileをSyntax Highlightしたり、補完が効くやつになります。
 
 割と面倒なのをMakefileで書いてしまうので重宝しています。
 
-### Conventional Commit & # Commitlint Conventional Commit
+### Gitmoji Plus: Commit Button
 
-https://www.conventionalcommits.org/en/v1.0.0/
+https://plugins.jetbrains.com/plugin/12383-gitmoji-plus-commit-button
 
-コミットを読みやすくするためのルールとしてconventional commitsがあると思います。
+GitmojiをPhpStorm上のGitHubクライアントから簡単に使えるようにするプラグインです。
 
-https://plugins.jetbrains.com/plugin/13389-conventional-commit
-
-これはconventional commitsに則ったようにコミットメッセージを組み立てられるように補助してくれるプラグインになります。
-
-ダイアログが出るので、それに入力していくだけで組み立てられるため、構造やルールを覚える必要がなくなります。
-
-また、Lintとしてルールを徹底させたい場合はLintとして以下のプラグインが役煮立ちます。
-
-https://github.com/conventional-changelog/commitlint
-
-https://plugins.jetbrains.com/plugin/14046-commitlint-conventional-commit
-
-
-### Active Tab Highlighter
-
-https://plugins.jetbrains.com/plugin/9562-active-tab-highlighter
-
-Icebergテーマを使用していると高頻度で「あれ、今どれ開いてるんだっけ」というのがわからなくなってしまうので入れてます。
+Gitmojiだと絵文字で何をしたコミットの種類なのかがひと目でわかるため、便利です。
 
 ###  Tabnine AI Code Completion- JS Java Python TS Rust Go PHP & More
 
 https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more
 
----
-
-ちまたでは[GitHub Copilot](https://copilot.github.com/)が有名ですが、自分はあれがお節介すぎるのとタブ補完が少し使いづらくなるので苦手でした。
 
 Tabnineはタブ補完で予測を出してくれる上に、ファイル上からも予測を行なってくれます。似たような文が続くテストコード等では大活躍で、少し癖はあるものの、効率は大幅に向上します。ぜひ利用して欲しいプラグインです。
 
@@ -174,9 +137,6 @@ Tabnineはかなり重宝しています。
 
 統計も出るので、どれくらい自動化されたのかが分かりやすいです。
 自分は15%くらいです。
-
----
-
 
 ###  Translation
 
@@ -188,11 +148,25 @@ Google翻訳を楽に行えます。
 
 ライブラリのコメントは英語で書かれていることが多いので、重宝します。
 
-###  PlantUML integration
+### Inspection Lens
 
-https://plugins.jetbrains.com/plugin/7017-plantuml-integration
+https://plugins.jetbrains.com/plugin/19678-inspection-lens
 
-モデリングする時や思考を整理するためにPlantUMLを書くことがあるのですが、PhpStorm上で書けるようになるので便利です。
+コードに問題があるときに波線などの警告が出ると思います。その警告文に対していちいちカーソルをあわせるのは少し面倒ですよね？
+
+そういったときに役立つプラグインがあります。それがInspection Lensです。
+
+Inspection Lensはエラーが発生している行にエラー文を表示してくれるため、カーソルを当てる必要もなく、問題点がわかります。
+
+ぜひ、オススメです。
+
+### GitLink
+
+https://plugins.jetbrains.com/plugin/8183-gitlink
+
+コードエディターからGitHubへのリンクをコピーできたり、GitHubを開くことができます。
+
+Slackなどで意外とコードURLを共有することはありませんか？その際にこのGitLinkを使えばスムーズにURLを見つけることができます。
 
 ## 操作系
 
@@ -267,9 +241,3 @@ https://plugins.jetbrains.com/plugin/13441-laravel-idea
 https://plugins.jetbrains.com/plugin/16309-laravel-query
 
 Laravelでのクエリ部分を補完してくれます。これがめちゃくちゃ便利で、正直これなしでは生きていけません・・・。
-
-### Laravel(非推奨)
-
-https://plugins.jetbrains.com/plugin/7532-laravel
-
-よくLaravelプラグイン系でお勧めされますが、今はもう古くアップデートもされていないので微妙です。ide-helperがあれば足りてますし、他のプラグイン等でカバーできてる部分も多いので必要ないと感じています。
